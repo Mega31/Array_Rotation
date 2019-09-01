@@ -2,7 +2,7 @@ package com.ArrayRotation;
 
 public class Revesal {
     //Revesal algrothim
-    //
+    //this
     static void leftRotate(int arr[], int d) {
         int n = arr.length;
         rvereseArray(arr, 0, d - 1);
